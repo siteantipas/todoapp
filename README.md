@@ -1,2 +1,2 @@
-# todoapp
-A Todo Application using Angular 7
+# Angular Todoapp
+A Todo Application using Angular 7 & Bootstrap 4
